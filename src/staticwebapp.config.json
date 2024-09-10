@@ -6,7 +6,7 @@
         "registration": {
           "openIdIssuer": "https://login.microsoftonline.com/common/v2.0",
           "clientIdSettingName": "AZURE_CLIENT_ID",
-          "clientSecretSettingName": "OVERRIDE_USE_MI_FIC_ASSERTION_CLIENTID"
+          "clientSecretSettingName": "AZURE_CLIENT_SECRET"
         }
       }
     }
