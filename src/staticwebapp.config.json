@@ -8,6 +8,12 @@
           "clientIdSettingName": "AZURE_CLIENT_ID",
           "clientSecretSettingName": "OVERRIDE_USE_MI_FIC_ASSERTION_CLIENTID"
         }
+      },
+      "github": {
+        "registration": {
+          "clientIdSettingName": "GITHUB_CLIENT_ID",
+          "clientSecretSettingName": "GITHUB_CLIENT_SECRET_APP_SETTING_NAME"
+        }
       }
     }
   }
